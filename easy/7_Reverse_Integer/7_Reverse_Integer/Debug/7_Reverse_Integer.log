@@ -1,0 +1,3 @@
+﻿  7_Reverse_Integer.cpp
+C:\Users\LUBO\OneDrive\C++\LeetCode\7_Reverse_Integer\7_Reverse_Integer\7_Reverse_Integer.cpp(25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  7_Reverse_Integer.vcxproj -> C:\Users\LUBO\OneDrive\C++\LeetCode\7_Reverse_Integer\Debug\7_Reverse_Integer.exe
