@@ -1,0 +1,4 @@
+﻿  79_Word_Search.cpp
+C:\Users\LUBO\OneDrive\C++\LeetCode\79_Word_Search\79_Word_Search\79_Word_Search.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\79_Word_Search\79_Word_Search\79_Word_Search.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  79_Word_Search.vcxproj -> C:\Users\LUBO\OneDrive\C++\LeetCode\79_Word_Search\Debug\79_Word_Search.exe
