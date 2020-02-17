@@ -1,0 +1,8 @@
+﻿  130_Surrounded_Regions.cpp
+C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\130_Surrounded_Regions\130_Surrounded_Regions.cpp(12,21): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\130_Surrounded_Regions\130_Surrounded_Regions.cpp(14,22): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\130_Surrounded_Regions\130_Surrounded_Regions.cpp(19,21): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\130_Surrounded_Regions\130_Surrounded_Regions.cpp(21,22): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\130_Surrounded_Regions\130_Surrounded_Regions.cpp(32,10): warning C4018:  “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\130_Surrounded_Regions\130_Surrounded_Regions.cpp(36,10): warning C4018:  “<”: 有符号/无符号不匹配
+  130_Surrounded_Regions.vcxproj -> C:\Users\LUBO\OneDrive\C++\LeetCode\130_Surrounded_Regions\Debug\130_Surrounded_Regions.exe
