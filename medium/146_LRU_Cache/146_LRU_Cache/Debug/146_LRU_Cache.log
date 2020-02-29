@@ -1,0 +1,32 @@
+﻿  146_LRU_Cache.cpp
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867: “std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::end”: 非标准语法；请使用 "&" 来创建指向成员的指针
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:         with
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:         [
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:             _Kty=int,
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:             _Ty=std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const int,int>>>>,
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:             _Hasher=std::hash<int>,
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:             _Keyeq=std::equal_to<int>,
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:             _Alloc=std::allocator<std::pair<const int,std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const int,int>>>>>>
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C3867:         ]
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C2678: 二进制“==”: 没有找到接受“std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>”类型的左操作数的运算符(或没有可接受的转换)
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C2678:         with
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C2678:         [
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C2678:             _Ty=std::pair<const int,std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const int,int>>>>>
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): error C2678:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\list(203,21): message : 可能是“bool std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>>::operator ==(const std::_List_const_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &) const”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\list(203,21): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\list(203,21): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\list(203,21): message :             _Ty=std::pair<const int,std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const int,int>>>>>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\list(203,21): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\system_error(232,24): message : 或    “bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\system_error(227,24): message : 或    “bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\system_error(222,24): message : 或    “bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\system_error(217,24): message : 或    “bool std::operator ==(const std::error_code &,const std::error_code &) noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\exception(290,24): message : 或    “bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\exception(286,24): message : 或    “bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\exception(282,24): message : 或    “bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept”
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): message : 尝试匹配参数列表“(std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>, overloaded-function)”时
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): message :         with
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): message :         [
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): message :             _Ty=std::pair<const int,std::_List_iterator<std::_List_val<std::_List_simple_types<std::pair<const int,int>>>>>
+C:\Users\LUBO\OneDrive\C++\LeetCode\146_LRU_Cache\146_LRU_Cache\146_LRU_Cache.cpp(16,1): message :         ]
