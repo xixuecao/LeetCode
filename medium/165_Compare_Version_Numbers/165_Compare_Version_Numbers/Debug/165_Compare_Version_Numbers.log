@@ -1,0 +1,8 @@
+﻿  165_Compare_Version_Numbers.cpp
+C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\165_Compare_Version_Numbers\165_Compare_Version_Numbers.cpp(14,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\165_Compare_Version_Numbers\165_Compare_Version_Numbers.cpp(29,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\165_Compare_Version_Numbers\165_Compare_Version_Numbers.cpp(44,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\165_Compare_Version_Numbers\165_Compare_Version_Numbers.cpp(44,38): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\165_Compare_Version_Numbers\165_Compare_Version_Numbers.cpp(47,10): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\165_Compare_Version_Numbers\165_Compare_Version_Numbers.cpp(48,10): warning C4018: “<”: 有符号/无符号不匹配
+  165_Compare_Version_Numbers.vcxproj -> C:\Users\LUBO\OneDrive\C++\LeetCode\165_Compare_Version_Numbers\Debug\165_Compare_Version_Numbers.exe
