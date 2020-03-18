@@ -1,0 +1,4 @@
+﻿  209_Minimum_Size_Subarray_Sum.cpp
+C:\Users\LUBO\OneDrive\C++\LeetCode\209_Minimum_Size_Subarray_Sum\209_Minimum_Size_Subarray_Sum\209_Minimum_Size_Subarray_Sum.cpp(14,18): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\LUBO\OneDrive\C++\LeetCode\209_Minimum_Size_Subarray_Sum\209_Minimum_Size_Subarray_Sum\209_Minimum_Size_Subarray_Sum.cpp(18,23): warning C4018: “>=”: 有符号/无符号不匹配
+  209_Minimum_Size_Subarray_Sum.vcxproj -> C:\Users\LUBO\OneDrive\C++\LeetCode\209_Minimum_Size_Subarray_Sum\Debug\209_Minimum_Size_Subarray_Sum.exe
